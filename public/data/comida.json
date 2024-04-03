@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Hamburguesas",
+    "image": "/images/food/Hamburguesas.png",
+    "href": "/food/hamburguesas"
+  },
+  {
+    "id": 2,
+    "name": "Pizzas",
+    "image": "/images/food/pizzas.png",
+    "href": "/food/pizzas"
+  },
+  {
+    "id": 3,
+    "name": "Pastas",
+    "image": "/images/food/pasta.png",
+    "href": "/food/pasta"
+  },
+  {
+    "id": 4,
+    "name": "Parrillada",
+    "image": "/images/food/parrilla.png",
+    "href": "/food/parrillada"
+  },
+  {
+    "id": 5,
+    "name": "Desayunos",
+    "image": "/images/food/desayunos.png",
+    "href": "/food/desayunos"
+  },
+  {
+    "id": 6,
+    "name": "Meriendas",
+    "image": "/images/food/meriendas.png",
+    "href": "/food/meriendas"
+  },
+  {
+    "id": 7,
+    "name": "Bebidas calientes",
+    "image": "/images/food/bebidas-calientes.png",
+    "href": "/food/bebidas-calientes"
+  },
+  {
+    "id": 8,
+    "name": "Bebidas frias",
+    "image": "/images/food/bebidas-frias.png",
+    "href": "/food/bebidas-calientes"
+  }
+]

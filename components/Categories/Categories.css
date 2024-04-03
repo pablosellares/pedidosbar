@@ -1,0 +1,42 @@
+.categorias-row {
+  margin-bottom: 128px;
+}
+
+.categorias-search {
+  background-color: #fff;
+  border: 1px solid #dedede;
+  border-radius: 8px;
+  box-shadow: none;
+  outline: none;
+  height: 42px;
+  width: 100%;
+  padding: 8px 42px;
+  color: #575757;
+  font-size: 14px;
+  font-style: italic;
+  background: url("/images/search.svg") 12px no-repeat;
+}
+
+.card-categoria {
+  border-radius: 16px;
+  height: 180px;
+  display: flex;
+  align-items: flex-end;
+  padding: 16px;
+  margin: 8px;
+  text-decoration: none;
+}
+
+.card-categoria h3 {
+  width: 100%;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 300;
+  font-size: 16px;
+  color: #fff;
+  text-align: center;
+}
+
+.categoria-ul li {
+  list-style: none;
+  width: 50%;
+}

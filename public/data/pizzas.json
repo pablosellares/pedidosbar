@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Pizza Mozzarella",
+    "image": "/images/food/pizzas/mozzarella.png",
+    "href": "/food/pizzas",
+    "price": "3599",
+    "ingredients": "Tomate, queso, aceitunas.."
+  },
+  {
+    "id": 2,
+    "name": "Pizza Especial",
+    "image": "/images/food/pizzas/especial.png",
+    "href": "/food/pizzas",
+    "price": "3599",
+    "ingredients": "Tomate, queso, aceitunas.."
+  }
+]

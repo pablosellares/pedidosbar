@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Cuarto de libra",
+    "image": "/images/food/hamburguesas/cuartodelibra.png",
+    "href": "/food/hamburguesas",
+    "price": "3599",
+    "ingredients": "Tomate, lechuga, huevo.."
+  },
+  {
+    "id": 2,
+    "name": "Doble Cuarto de libra",
+    "image": "/images/food/hamburguesas/doblecuartodelibra.png",
+    "href": "/food/hamburguesas",
+    "price": "5599",
+    "ingredients": "Tomate, lechuga, huevo.."
+  },
+  {
+    "id": 3,
+    "name": "Veggie Burger",
+    "image": "/images/food/hamburguesas/veggie.png",
+    "href": "/food/hamburguesas",
+    "price": "3599",
+    "ingredients": "Tomate, lechuga, huevo.."
+  },
+  {
+    "id": 4,
+    "name": "Burger de Pollo",
+    "image": "/images/food/hamburguesas/burgerpollo.png",
+    "href": "/food/hamburguesas",
+    "price": "3599",
+    "ingredients": "Tomate, lechuga, huevo.."
+  },
+  {
+    "id": 5,
+    "name": "Cheddar Burger",
+    "image": "/images/food/hamburguesas/burgercheddar.png",
+    "href": "/food/hamburguesas",
+    "price": "3599",
+    "ingredients": "Tomate, lechuga, huevo.."
+  }
+]

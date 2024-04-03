@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Inicio",
+    "icon": "/images/menu-icons/home.svg",
+    "href": "/home/"
+  },
+  {
+    "id": 2,
+    "name": "Ofertas",
+    "icon": "/images/menu-icons/ofertas.svg",
+    "href": "/"
+  },
+  {
+    "id": 3,
+    "name": "Mis Pedidos",
+    "icon": "/images/menu-icons/mis-pedidos.svg",
+    "href": "/"
+  },
+  {
+    "id": 4,
+    "name": "Mi Perfil",
+    "icon": "/images/menu-icons/mi-perfil.svg",
+    "href": "/profile/"
+  }
+]
