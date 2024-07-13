@@ -5,7 +5,8 @@
     "image": "/images/food/hamburguesas/cuartodelibra.png",
     "href": "/food/hamburguesas",
     "price": "3599",
-    "ingredients": "Tomate, lechuga, huevo.."
+    "ingredients": "Tomate, lechuga, huevo..",
+    "qty": 1
   },
   {
     "id": 2,
@@ -13,7 +14,8 @@
     "image": "/images/food/hamburguesas/doblecuartodelibra.png",
     "href": "/food/hamburguesas",
     "price": "5599",
-    "ingredients": "Tomate, lechuga, huevo.."
+    "ingredients": "Tomate, lechuga, huevo..",
+    "qty": 3
   },
   {
     "id": 3,
@@ -21,7 +23,8 @@
     "image": "/images/food/hamburguesas/veggie.png",
     "href": "/food/hamburguesas",
     "price": "3599",
-    "ingredients": "Tomate, lechuga, huevo.."
+    "ingredients": "Tomate, lechuga, huevo..",
+    "qty": 0
   },
   {
     "id": 4,
@@ -29,7 +32,8 @@
     "image": "/images/food/hamburguesas/burgerpollo.png",
     "href": "/food/hamburguesas",
     "price": "3599",
-    "ingredients": "Tomate, lechuga, huevo.."
+    "ingredients": "Tomate, lechuga, huevo..",
+    "qty": 0
   },
   {
     "id": 5,
@@ -37,6 +41,7 @@
     "image": "/images/food/hamburguesas/burgercheddar.png",
     "href": "/food/hamburguesas",
     "price": "3599",
-    "ingredients": "Tomate, lechuga, huevo.."
+    "ingredients": "Tomate, lechuga, huevo..",
+    "qty": 0
   }
 ]

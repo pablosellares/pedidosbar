@@ -34,6 +34,12 @@ select {
   margin-left: 4px;
 }
 
+button:focus,
+button:active {
+  box-shadow: none;
+  outline: none;
+}
+
 .btn {
   padding: 18px 32px;
   outline: none;
@@ -103,6 +109,65 @@ select {
   font-size: 14px;
   color: #000;
   text-align: center;
+}
+
+.minicart {
+  position: absolute;
+  background-color: #fff;
+  width: 95%;
+  top: 56px;
+  left: 2.5%;
+  padding: 16px;
+  z-index: 999;
+  box-shadow: 0 0 18px rgba(0, 0, 0, 0.25);
+  border-radius: 8px;
+  min-height: 350px;
+  transition: all 250ms ease-in-out;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.minicart::after {
+  content: "";
+  width: 16px;
+  height: 16px;
+  background-color: #fff;
+  position: absolute;
+  right: 10px;
+  top: -8px;
+  transform: rotate(45deg);
+}
+
+.minicart h4 {
+  font-weight: 400;
+  font-size: 14px;
+}
+
+.minicart-totals-cta {
+  display: flex;
+  position: absolute;
+  bottom: 16px;
+  width: calc(100% - 32px);
+}
+
+.minicart-totals {
+  width: 75%;
+}
+
+.minicart-totals > button {
+  width: 250px;
+}
+
+.minicart-totals-price {
+  font-weight: 800;
+  font-size: 24px;
+  color: #000;
+}
+
+.totals-separator {
+  border: 1px solid #d0d0d0;
+  position: absolute;
+  bottom: 90px;
+  width: 90%;
 }
 
 @media screen and (min-width: 768px) {

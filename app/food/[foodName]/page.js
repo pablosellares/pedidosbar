@@ -19,6 +19,14 @@ export default function Food({ params }) {
       })
   }, [])
 
+  const updateQty = () => {
+    const updatedData = food.map((item) => {
+      return { ...item, qty: item.qty + 1 };
+    })
+    setFood(updatedData)
+    console.log(food)
+  }
+
   return (<>
     <div className="topbar-container" style={{ display: 'flex' }}>
       <GoBack />
@@ -33,7 +41,7 @@ export default function Food({ params }) {
           <p className="food-info__price">${item.price}</p>
           <p className="food-info__ingredients">{item.ingredients}</p>
         </div>
-        <AddItem />
+        <AddItem onClick={updateQty} />
       </li>))}
     </ul>
     <TabBar />

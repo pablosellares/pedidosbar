@@ -1,6 +1,7 @@
 'use client'
 
 import Categories from '../../components/Categories/Categories'
+import MiniCart from '../../components/MiniCart/MiniCart'
 import TabBar from '../../components/TabBar/TabBar'
 import TopBar from '../../components/TopBar/TopBar'
 

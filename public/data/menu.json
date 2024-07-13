@@ -9,13 +9,13 @@
     "id": 2,
     "name": "Ofertas",
     "icon": "/images/menu-icons/ofertas.svg",
-    "href": "/"
+    "href": "/ofertas"
   },
   {
     "id": 3,
     "name": "Mis Pedidos",
     "icon": "/images/menu-icons/mis-pedidos.svg",
-    "href": "/"
+    "href": "/pedidos"
   },
   {
     "id": 4,
